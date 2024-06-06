@@ -149,30 +149,30 @@ const data = {
     seller: {
         name: "ABC Pvt Ltd",
         address: "123 Street",
-        city: "City",
-        state: "State",
-        pincode: "123456",
+        city: "Kolkata",
+        state: "West Bengal",
+        pincode: "700001",
         pan: "ABCDE1234F",
         gst: "27ABCDE1234F1Z5"
     },
-    placeOfSupply: "State",
+    placeOfSupply: "West Bengal",
     billing: {
-        name: "Customer Name",
+        name: "Mohtesham",
         address: "456 Avenue",
-        city: "City",
-        state: "State",
-        pincode: "654321",
+        city: "Kolkata",
+        state: "West Bengal",
+        pincode: "700023",
         stateCode: "27"
     },
     shipping: {
-        name: "Customer Name",
+        name: "Mohtesham",
         address: "456 Avenue",
-        city: "City",
-        state: "State",
-        pincode: "654321",
+        city: "Kolkata",
+        state: "West Bengal",
+        pincode: "700023",
         stateCode: "27"
     },
-    placeOfDelivery: "State",
+    placeOfDelivery: "West Bengal",
     order: {
         number: "ORD123456",
         date: "2024-06-05"
