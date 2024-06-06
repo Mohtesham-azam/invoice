@@ -198,7 +198,7 @@ generateInvoice(data);
 document.getElementById('download').addEventListener('click', () => {
     const element = document.getElementById('content');
     html2pdf(element, {
-        margin: 5,
+        margin: 0,
         filename: 'invoice.pdf',
         image: { type: 'jpeg', quality: 0.98 },
         html2canvas: { scale: 2 },
